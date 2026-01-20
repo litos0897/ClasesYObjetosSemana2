@@ -8,7 +8,7 @@ public class Coche {
             this.velocidadMaxima = velocidadMaxima;
             this.velocidad = 0;
         }
-        public void acelerar ( int aumento){
+        public void acelerar (int aumento){
             if (aumento > 0) {
                 velocidad += aumento;
             }
