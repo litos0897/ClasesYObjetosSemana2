@@ -1,6 +1,6 @@
 public class MainMascota {
     public static void main(String[] args) {
-        Mascota mascota1=new Mascota("Mierdón");
+        Mascota mascota1=new Mascota("Firulais");
 
         mascota1.mostrarEstado();
 
