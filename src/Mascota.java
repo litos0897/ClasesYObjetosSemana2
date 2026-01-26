@@ -22,6 +22,6 @@ public class Mascota {
     }
 
     public void mostrarEstado(){
-        System.out.println("La mascota se llama "+nombre+ "y tiene "+hambre+" de hambre sobre 100");
+        System.out.println("La mascota se llama "+nombre+ " y tiene "+hambre+" de hambre sobre 100");
     }
 }
