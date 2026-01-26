@@ -23,7 +23,7 @@ public class Luchador {
 
     public boolean recibeDanho(int danhoRecibido) {
         int danhoFinal=danhoRecibido-this.defensa;
-        if (danhoFinal<0) {
+        if (danhoFinal<0){
             danhoFinal=0;
         }
 

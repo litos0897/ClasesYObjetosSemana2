@@ -1,8 +1,8 @@
 public class MainLuchador {
     public static void main(String[] args) {
         // Creamos a los dos combatientes
-        Luchador luchador1 = new Luchador("Ryu", 100, 25, 10);
-        Luchador luchador2 = new Luchador("Ken", 100, 22, 12);
+        Luchador luchador1 = new Luchador("Ryu", 205, 25, 10);
+        Luchador luchador2 = new Luchador("Ken", 195, 20, 15);
 
         boolean victoria = false;
 
